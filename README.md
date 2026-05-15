@@ -41,6 +41,8 @@ Cloud & DevOps Engineer focused on building scalable, serverless, and automation
 * Git & GitHub
 * Automation workflows
 * System monitoring & backup strategies
+* CI/CD integration
+* docker and kubernets
 
 ---
 
