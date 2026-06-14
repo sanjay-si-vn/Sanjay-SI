@@ -1,105 +1,131 @@
-#  Hi, I'm Sanjay
+# Hi, I'm Sanjay 
 
-Cloud & DevOps Engineer focused on building scalable, serverless, and automation-driven systems using AWS, Linux, and scripting tools.
+## 🚀 About Me
 
----
+I'm an aspiring Cloud & DevOps Engineer passionate about building, automating, and deploying applications using modern DevOps practices.
 
-##  About Me
+Currently, I'm focused on learning and implementing:
 
-*  Hands-on experience with **AWS Cloud & Serverless Architecture**
-*  Built automation systems using **Bash scripting on Linux**
-*  Strong understanding of **DevOps workflows and system design**
-*  Focused on monitoring, logging, and cloud observability
-*  Passionate about building real-world production-style systems
+- Linux Administration
+- Git & GitHub
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- AWS Cloud
+- Infrastructure Automation
+- Monitoring & Logging
+- Troubleshooting & System Design
 
----
-
-##  Tech Stack
-
-### Cloud & AWS
-
-* AWS Lambda
-* API Gateway
-* CloudWatch
-* DynamoDB
-* Amazon Aurora (Serverless / RDS concepts)
-* AWS CLI
-* AWS EC2
-* AWS S3
-* AWS VPC
-* AWS IAM
-
-###  Linux & Scripting
-
-* Linux System Administration (Ubuntu / WSL)
-* Bash Scripting
-* Process, Disk, and Memory Monitoring
-* Log Management & Automation
-
-###  DevOps Tools
-
-* Git & GitHub
-* Automation workflows
-* System monitoring & backup strategies
-* CI/CD integration
-* docker and kubernets
+I enjoy understanding how applications move from development to production and how automation can improve reliability and efficiency.
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Technical Skills
 
-### 🔹 Linux Monitoring & Automation System
+### Cloud
+- AWS (Learning & Building Projects)
 
-A complete Bash-based automation project that:
+### Containers & Orchestration
+- Docker
+- Kubernetes
 
-* Monitors system health (CPU, RAM, Disk, Users)
-* Generates structured logs for system activity
-* Automates backups using compressed archives (`tar`)
-* Implements cleanup of old logs and backups
-* Simulates real-world DevOps system administration tasks
+### CI/CD
+- GitHub Actions
 
-👉 Focus: Linux automation, monitoring, and system scripting
+### Version Control
+- Git
+- GitHub
 
----
+### Operating Systems
+- Linux
+- WSL
 
-###  AWS Serverless Cloud Experience
+### Monitoring & Observability
+- Prometheus
+- Grafana
 
-Hands-on experience building cloud workflows using:
-
-* **AWS Lambda** → serverless compute functions
-* **API Gateway** → REST API routing
-* **DynamoDB** → NoSQL database storage
-* **CloudWatch** → monitoring, logs, and alerts
-* **Amazon Aurora** → relational database (serverless concepts)
-
-👉 Focus: Event-driven architecture and serverless systems
-
-###  And more projects based on aws cloud 
-
----
-
-##  Current Focus
-
-* Building production-level DevOps automation systems
-* Designing serverless cloud architectures on AWS
-* Strengthening observability (logs, metrics, alerts)
-* Improving system design and scalability thinking
+### Languages
+- Bash
+- YAML
+- Basic JavaScript
+- Basic Python
 
 ---
 
-##  Career Goals
+##  Projects
 
-* Cloud/DevOps Engineer role in a product-based company
-* Build scalable serverless systems on AWS
-* Master CI/CD pipelines and infrastructure automation
-* Work on real-world distributed systems
+### Automated CI/CD Deployment Pipeline
+**Tech Stack:** GitHub Actions, Docker, Docker Hub, AWS EC2
+
+- Built an automated CI/CD pipeline using GitHub Actions
+- Containerized application using Docker
+- Published images to Docker Hub
+- Automated deployments to AWS EC2
+- Reduced manual deployment effort through automation
+
+### Docker Practice Lab
+**Tech Stack:** Docker
+
+- Worked with Docker images and containers
+- Built custom Docker images
+- Managed volumes and networking
+- Practiced container lifecycle management
+- Troubleshot common Docker issues
+
+### Kubernetes Practice Lab
+**Tech Stack:** Kubernetes, Minikube
+
+- Created and managed Pods
+- Worked with Deployments and Services
+- Performed troubleshooting using kubectl
+- Learned container orchestration fundamentals
+- Explored cluster operations and networking concepts
+
+---
+
+##  Currently Learning
+
+- AWS Cloud Services
+- Advanced Kubernetes
+- Infrastructure as Code (Terraform)
+- Monitoring & Logging
+- DevOps Troubleshooting
+- Cloud Architecture
+
+---
+
+##  What I'm Looking For
+
+I'm seeking opportunities as a:
+
+- Cloud Engineer
+- DevOps Engineer
+- Site Reliability Engineer (SRE)
+- Platform Engineer (Entry Level)
+
+where I can contribute, learn from experienced engineers, and continue building real-world cloud and DevOps solutions.
+
+---
+
+##  Areas of Interest
+
+- Cloud Computing
+- DevOps Culture
+- Automation
+- Infrastructure as Code
+- Containerization
+- Kubernetes
+- CI/CD
+- System Reliability
+- Monitoring & Observability
 
 ---
 
 ##  Connect With Me
 
-* LinkedIn: (www.linkedin.com/in/sanjay-s-i)
+- LinkedIn: Add Your LinkedIn URL
+- GitHub: Add Your GitHub URL
 
 ---
 
-> “I don’t just learn tools — I build systems that automate, scale, and monitor themselves.”
+> "Keep Learning. Keep Building. Keep Automating."
