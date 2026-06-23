@@ -123,7 +123,7 @@ I build cloud-native solutions, automate deployments, and design scalable infras
 
 * LinkedIn: https://linkedin.com/in/sanjay-s-i
 * GitHub: https://github.com/sanjay-si-vn
-* Portfolio: https://your-portfolio-url.com
+* Portfolio: https://sanjay76-portfolio.netlify.app/
 
 ---
 
