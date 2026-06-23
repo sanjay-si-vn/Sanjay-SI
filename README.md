@@ -1,131 +1,133 @@
-# Hi, I'm Sanjay 
+# Hi, I'm Sanjay 👋
 
-## 🚀 About Me
+ **Portfolio:** [sanjay76-portfolio.netlify.ap](https://sanjay76-portfolio.netlify.app/)
 
-I'm an aspiring Cloud & DevOps Engineer passionate about building, automating, and deploying applications using modern DevOps practices.
+**Junior DevOps & Cloud Engineer** focused on AWS, Linux, Docker, Kubernetes, CI/CD, and Infrastructure Automation.
 
-Currently, I'm focused on learning and implementing:
-
-- Linux Administration
-- Git & GitHub
-- Docker
-- Kubernetes
-- CI/CD Pipelines
-- AWS Cloud
-- Infrastructure Automation
-- Monitoring & Logging
-- Troubleshooting & System Design
-
-I enjoy understanding how applications move from development to production and how automation can improve reliability and efficiency.
+I build cloud-native solutions, automate deployments, and design scalable infrastructure using modern DevOps practices.
 
 ---
 
-## 🛠️ Technical Skills
+##  About Me
 
-### Cloud
-- AWS (Learning & Building Projects)
-
-### Containers & Orchestration
-- Docker
-- Kubernetes
-
-### CI/CD
-- GitHub Actions
-
-### Version Control
-- Git
-- GitHub
-
-### Operating Systems
-- Linux
-- WSL
-
-### Monitoring & Observability
-- Prometheus
-- Grafana
-
-### Languages
-- Bash
-- YAML
-- Basic JavaScript
-- Basic Python
+* AWS Cloud & DevOps Engineer with hands-on project experience
+* Built production-style CI/CD pipelines using GitHub Actions and Docker
+* Designed secure AWS VPC architectures with public/private subnets and bastion hosts
+* Experienced with Linux administration, containerization, monitoring, and automation
+* Passionate about cloud infrastructure, reliability, and platform engineering
 
 ---
 
-##  Projects
+##  Technical Skills
+
+**Cloud & Infrastructure**
+
+* AWS (EC2, S3, IAM, VPC, Lambda, API Gateway, DynamoDB, Route 53, ALB, Cognito)
+
+**DevOps & CI/CD**
+
+* GitHub Actions
+* Docker
+* Kubernetes
+* Jenkins
+* CI/CD Automation
+
+**Infrastructure as Code**
+
+* Terraform (Basics)
+* HCL
+* YAML
+
+**Operating Systems & Networking**
+
+* Linux
+* DNS
+* HTTP/HTTPS
+* TCP/IP
+* SSH
+* VPC Networking
+
+**Monitoring & Observability**
+
+* Prometheus
+* Grafana
+* CloudWatch
+* EFK Stack
+
+**Programming & Scripting**
+
+* Bash
+* Python
+* JavaScript
+
+---
+
+##  Featured Projects
 
 ### Automated CI/CD Deployment Pipeline
-**Tech Stack:** GitHub Actions, Docker, Docker Hub, AWS EC2
 
-- Built an automated CI/CD pipeline using GitHub Actions
-- Containerized application using Docker
-- Published images to Docker Hub
-- Automated deployments to AWS EC2
-- Reduced manual deployment effort through automation
+**GitHub Actions · Docker · AWS EC2**
 
-### Docker Practice Lab
-**Tech Stack:** Docker
+* Eliminated 12 manual deployment steps through automation
+* Reduced deployment time by 80%
+* Implemented Docker image versioning and rollback strategy
+* Automated deployments to AWS EC2
 
-- Worked with Docker images and containers
-- Built custom Docker images
-- Managed volumes and networking
-- Practiced container lifecycle management
-- Troubleshot common Docker issues
+### Serverless CRUD API
 
-### Kubernetes Practice Lab
-**Tech Stack:** Kubernetes, Minikube
+**AWS Lambda · API Gateway · DynamoDB · Cognito**
 
-- Created and managed Pods
-- Worked with Deployments and Services
-- Performed troubleshooting using kubectl
-- Learned container orchestration fundamentals
-- Explored cluster operations and networking concepts
+* Built fully serverless REST APIs
+* Secured endpoints with Cognito authentication
+* Designed scalable DynamoDB architecture
+* Reduced infrastructure overhead through serverless design
 
----
+### Secure Multi-Tier AWS VPC Network
 
-##  Currently Learning
+**AWS VPC · EC2 · NAT Gateway**
 
-- AWS Cloud Services
-- Advanced Kubernetes
-- Infrastructure as Code (Terraform)
-- Monitoring & Logging
-- DevOps Troubleshooting
-- Cloud Architecture
+* Designed secure public/private subnet architecture
+* Implemented bastion-host-based access control
+* Applied AWS Well-Architected security principles
+* Configured least-privilege network access
+
+### Cloud-Native Monitoring Platform
+
+**Kubernetes · Prometheus · Grafana · Terraform**
+
+* Implemented monitoring and observability stack
+* Automated deployment workflows
+* Applied Infrastructure as Code principles
+* Integrated CI/CD with containerized workloads
 
 ---
 
-##  What I'm Looking For
+##  Certifications
 
-I'm seeking opportunities as a:
-
-- Cloud Engineer
-- DevOps Engineer
-- Site Reliability Engineer (SRE)
-- Platform Engineer (Entry Level)
-
-where I can contribute, learn from experienced engineers, and continue building real-world cloud and DevOps solutions.
+* AWS Cloud Practitioner Essentials
+* Linux Foundation LFS101 – Introduction to Linux
+* IBM Docker Essentials
 
 ---
 
-##  Areas of Interest
+##  Career Interests
 
-- Cloud Computing
-- DevOps Culture
-- Automation
-- Infrastructure as Code
-- Containerization
-- Kubernetes
-- CI/CD
-- System Reliability
-- Monitoring & Observability
+* Cloud Engineer
+* DevOps Engineer
+* Site Reliability Engineer (SRE)
+* Platform Engineer
 
 ---
 
 ##  Connect With Me
 
-- LinkedIn: Add Your LinkedIn URL
-- GitHub: Add Your GitHub URL
+* LinkedIn: https://linkedin.com/in/sanjay-s-i
+* GitHub: https://github.com/sanjay-si-vn
+* Portfolio: https://your-portfolio-url.com
 
 ---
 
-> "Keep Learning. Keep Building. Keep Automating."
+> Building reliable systems through automation, cloud infrastructure, and continuous improvement.
+
+## Author 
+  **Sanjay SI**
